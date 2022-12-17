@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@shamala/mangling": "^1.0.0"
+  }
+}
